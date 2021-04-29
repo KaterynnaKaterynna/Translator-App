@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\bin\Debug\Task_4.exe
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\bin\Debug\Task_4.pdb
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.Form1.resources
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.Properties.Resources.resources
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4(English words).csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4(English words).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.exe
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.pdb
+C:\Users\HP\source\repos\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4(English words).csprojAssemblyReference.cache
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\bin\Debug\Task_4.exe
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\bin\Debug\Task_4.pdb
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4(English words).csprojAssemblyReference.cache
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.Form1.resources
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.Properties.Resources.resources
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4(English words).csproj.GenerateResource.cache
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4(English words).csproj.CoreCompileInputs.cache
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.exe
+C:\Users\goncharova\Desktop\Second Homework_8_Goncharova\Task_4\obj\Debug\Task_4.pdb
